@@ -1,0 +1,6 @@
+name: Toooor
+version: ${project.version}
+main: epl.hum.toooor.Toooor
+api-version: 1.17
+authors: [ Dakdari ]
+description: 골카퍼
